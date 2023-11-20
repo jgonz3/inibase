@@ -55,7 +55,7 @@ Become a sponsor and have your company logo here 👉 [GitHub Sponsors](https://
 
 ## How it works?
 
-To semplify the idea, each database has tables, each table has columns, each column will be stored in a seperated file. When POSTing new data, it will be appended to each columns file as new line. When GETing data, the file will be readed line-by-line so it can handle large data (without consuming a lot of resources)
+To simplify the idea, each database has tables, each table has columns, each column will be stored in a seperated file. When POSTing new data, it will be appended to each columns file as new line. When GETing data, the file will be read line-by-line so it can handle large data (without consuming a lot of resources)
 
 ## Examples
 
